@@ -1,0 +1,357 @@
+{
+    "jobs": [
+      {
+        "id": "1",
+        "company": {
+          "companyId": 1480,
+          "companyName": "Adobe"
+        },
+        "jobTitle": "Technical Lead, Application Managemen",
+        "skills": [
+          "cloud",
+          "virtualization",
+          "VMware"
+        ],
+        "formattedAddress": "Am Sandtorkai 41, Hamburg, Germany",
+        "salary": 20000,
+        "dueDate": "01/04/2023",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "2",
+        "company": {
+          "companyId": 2712,
+          "companyName": "Colt Technology Services"
+        },
+        "jobTitle": "Product Manager – Virtualisation & Cloud Services x 2",
+        "skills": [
+          "cloud",
+          "Amazon aws",
+          "S3 Storage"
+        ],
+        "formattedAddress": "Magnusstraße 13, Cologne, Germany",
+        "salary": 40000,
+        "dueDate": "15-04-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "3",
+        "company": {
+          "companyId": 1035,
+          "companyName": "Microsoft"
+        },
+        "jobTitle": "CEE BDM Activation",
+        "skills": [
+          "cloud",
+          "Networking",
+          "Marketing",
+          "Microsoft Office"
+        ],
+        "formattedAddress": "Konrad-Zuse-Straße 1, Unterschleißheim, Germany",
+        "salary": 25000,
+        "dueDate": "20-05-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "4",
+        "company": {
+          "companyId": 1593,
+          "companyName": "Deutsche Telekom"
+        },
+        "jobTitle": "2 Technology Operator Cloud (m/w) (Linux Systemadministrator)",
+        "skills": [
+          "cloud",
+          "Linux",
+          "Networking",
+          "Sys. Admin."
+        ],
+        "formattedAddress": "Ernst-Reuter-Platz 7, Berlin, Germany",
+        "salary": 32000,
+        "dueDate": "01-06-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "5",
+        "company": {
+          "companyId": 5141,
+          "companyName": "Exact"
+        },
+        "jobTitle": "Proposition Manager Cloud Solutions Germany",
+        "skills": [
+          "cloud",
+          "Result-oriented",
+          "English",
+          "German"
+        ],
+        "formattedAddress": "Vogelsanger Straße 76, Cologne, Germany",
+        "salary": 50000,
+        "dueDate": "20-06-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "6",
+        "company": {
+          "companyId": 729369,
+          "companyName": "MoTek Technologies"
+        },
+        "jobTitle": "Director of Cloud",
+        "skills": [
+          "cloud",
+          "Hyper-V",
+          "Networking",
+          "Sys. Admin",
+          "User-focused",
+          "Innovative"
+        ],
+        "formattedAddress": "302 South Market Street, San Jose, CA, United States",
+        "salary": 100000,
+        "dueDate": "01-08-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "7",
+        "company": {
+          "companyId": 1441,
+          "companyName": "Google"
+        },
+        "jobTitle": "Engineering Solutions Architect, Cloud Platform",
+        "skills": [
+          "cloud",
+          "Security",
+          "Data Storage",
+          "Java",
+          "Python",
+          "Networking",
+          "Cybersecurity"
+        ],
+        "formattedAddress": "1600 Amphitheatre Parkway, Mountain View, CA, United States",
+        "salary": 80000,
+        "dueDate": "01-08-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "8",
+        "company": {
+          "companyId": 926041,
+          "companyName": "Okta, Inc."
+        },
+        "jobTitle": "Cloud Enterprise Architect",
+        "skills": [
+          "cloud",
+          "Problem-Solving",
+          "Leadership",
+          "Microservices",
+          "Kubernetes",
+          "DevOps"
+        ],
+        "formattedAddress": "319 North Road, Coquitlam, BC, Canada",
+        "salary": 120000,
+        "dueDate": "15-08-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "9",
+        "company": {
+          "companyId": 1028,
+          "companyName": "Oracle"
+        },
+        "jobTitle": "Cloud Platform System Engineer",
+        "skills": [
+          "cloud",
+          "SaaS",
+          "PaaS",
+          "IaaS"
+        ],
+        "formattedAddress": "95 Network Drive, Burlington, MA, United States",
+        "salary": 55000,
+        "dueDate": "01-07-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "11",
+        "company": {
+          "companyId": 429135,
+          "companyName": "OBI"
+        },
+        "jobTitle": "Praktikant PHP Entwicklung",
+        "skills": [
+          "php",
+          "HTML/CSS",
+          "Git/GitHub",
+          "JS",
+          "MySQL"
+        ],
+        "formattedAddress": "Albert-Einstein-Straße 7-9, Wermelskirchen, Deutschland",
+        "salary": 65000,
+        "dueDate": "12-00-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "12",
+        "company": {
+          "companyId": 37155,
+          "companyName": "Bertrandt AG"
+        },
+        "jobTitle": "Web- und Datenbankentwickler (m/w)",
+        "skills": [
+          "php",
+          "Vue.js",
+          "Firebase",
+          "Docker"
+        ],
+        "formattedAddress": "Krümke 1, Tappenbeck, Germany",
+        "salary": 65000,
+        "dueDate": "06-08-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "13",
+        "company": {
+          "companyId": 3534,
+          "companyName": "Continental"
+        },
+        "jobTitle": "Praktikum Programmierung webbasierte Wissensdatenbank (Job ID: 150749)",
+        "skills": [
+          "php"
+        ],
+        "formattedAddress": "Sodener Straße 9, Schwalbach am Taunus, Germany",
+        "salary": 45000,
+        "dueDate": "20-07-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "14",
+        "company": {
+          "companyId": 1593,
+          "companyName": "Deutsche Telekom"
+        },
+        "jobTitle": "Kundenberater Geschäftskunden in Vollzeit (38h) in Nürnberg (m/w)",
+        "skills": [
+          "php"
+        ],
+        "formattedAddress": "Bayreuther Straße 1, Nuremberg, Germany",
+        "salary": 44000,
+        "dueDate": "01-08-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "15",
+        "company": {
+          "companyId": 424741,
+          "companyName": "Innogames GmbH"
+        },
+        "jobTitle": "Software Developer Portal (m/f)",
+        "skills": [
+          "php",
+          "Docker",
+          "Git/GitHub",
+          "Tailwind"
+        ],
+        "formattedAddress": "Harburger Schloßstraße 28, Hamburg, Deutschland",
+        "salary": 66000,
+        "dueDate": "04/07/2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "16",
+        "company": {
+          "companyId": 21836,
+          "companyName": "CyberCoders"
+        },
+        "jobTitle": "PHP Developer, PHP, LAMP, Fast growing co. looking for PHP guru!",
+        "skills": [
+          "php",
+          "Web Server Admin.",
+          "MySQL",
+          "php OO",
+          "Laravel"
+        ],
+        "formattedAddress": "420 Trowbridge Drive, Fond du Lac, WI, United States",
+        "salary": 50000,
+        "dueDate": "05-07-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "17",
+        "company": {
+          "companyId": 21836,
+          "companyName": "CyberCoders"
+        },
+        "jobTitle": "Junior PHP Developer - Entry Level PHP Developer",
+        "skills": [
+          "php",
+          "HTML/CSS",
+          "JS"
+        ],
+        "formattedAddress": "486 Coalville Way, Draper, UT, United States",
+        "salary": 35000,
+        "dueDate": "01-09-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "18",
+        "company": {
+          "companyId": 1093,
+          "companyName": "Dell"
+        },
+        "jobTitle": "Solutions Architecture Consultant - Cloud Solutions",
+        "skills": [
+          "hadoop",
+          "Cloud"
+        ],
+        "formattedAddress": "39 Avenue des 2 Fontaines, Metz, France",
+        "salary": 100000,
+        "dueDate": "01-08-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "19",
+        "company": {
+          "companyId": 1288,
+          "companyName": "Yahoo!"
+        },
+        "jobTitle": "Senior Product Manager, Hadoop and Big Data",
+        "skills": [
+          "hadoop",
+          "Big data"
+        ],
+        "formattedAddress": "701 1st Avenue, Sunnyvale, CA, United States",
+        "salary": 54000,
+        "dueDate": "01-10-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "20",
+        "company": {
+          "companyId": 2269733,
+          "companyName": "Hortonworks"
+        },
+        "jobTitle": "Solutions Engineer - Big Data",
+        "skills": [
+          "hadoop"
+        ],
+        "formattedAddress": "455 West Maude Avenue, Sunnyvale, CA, United States",
+        "salary": 55000,
+        "dueDate": "01-08-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      },
+      {
+        "id": "21",
+        "company": {
+          "companyId": 21836,
+          "companyName": "CyberCoders"
+        },
+        "jobTitle": "Database engineer, Hadoop, Incredible company with amazing perks",
+        "skills": [
+          "hadoop",
+          "Oracle",
+          "SQL Server",
+          "DB2"
+        ],
+        "formattedAddress": "550 Cochituate Road, Framingham, MA, United States",
+        "salary": 55000,
+        "dueDate": "12-11-2024",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, reiciendis."
+      }
+    ]
+  }
